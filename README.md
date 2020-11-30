@@ -7,4 +7,4 @@ These project were done during my studies in Yandex.Practicum. As well here will
 
 | Project name | Project description | Used libraries  | Project language |
 | :---------------------- | :---------------------- | :---------------------- | :---------------------- |
-| [User Behavior Research Project](Исследования поведения пользователей для мобильного приложения) | Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени (утро и вечер) и дня недели (понедельник, среда, пятница)| *pandas, plotly, numpy, stats, cmath, datetime* | russian
+| [User Behavior Research Project](User_Behavior_Research_Project) | Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени (утро и вечер) и дня недели (понедельник, среда, пятница)| *pandas, plotly, numpy, stats, cmath, datetime* | russian
