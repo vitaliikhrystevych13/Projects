@@ -7,4 +7,4 @@ These project were done during my studies in Yandex.Practicum. As well here will
 
 | Project name | Project description | Used libraries  | Project language |
 | :---------------------- | :---------------------- | :---------------------- | :---------------------- |
-| [User Behavior Research Project](User_Behavior_Research_Project) | Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени (утро и вечер) и дня недели (понедельник, среда, пятница)| *pandas, plotly, numpy, stats, cmath, datetime* | russian
+| [User Behavior Research Project](User_Behavior_Research_Project) | In this project I researched behaviour of the product application users, determined the way and amount of theirs "journey" in the application, constructed product funnels and found out how the change of the font influenced on the users using A/A and A/B testing methods | *pandas, plotly, numpy, stats, cmath, datetime* | russian
