@@ -1,6 +1,6 @@
 # Projects
-This repository is the storage of my analytical and machine learning projects. Here you can find projects on ukrainian, english and russian languages.  
-These project were done during my studies in Yandex.Practicum. As well here will be listed all other interesitng projects for your review.
+This repository is the storage of my analytical and machine learning projects. Here you can find projects on Ukrainian, English and Russian languages.
+These projects were done during my studies in Yandex.Practicum. As well here will be listed all other interesting projects for your review.
 
 
 
