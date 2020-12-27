@@ -1,7 +1,7 @@
 # Projects
-Hi, my name is Vitalii, I am Data Analyst and in repository you can find my analytical and machine learning projects. Here I store projects on Ukrainian, English and Russian languages.
-These projects were done during my studies. As well here will be listed all other interesting projects for your review.
-If you would like to contact me just write at vitalii.khrystevych@gmail.com
+Hi, my name is Vitalii, I am Data Analyst and in repository you can find my analytical and machine learning projects. Here I store projects on Ukrainian, English and Russian languages.  
+These projects were done during my studies. As well here will be listed all other interesting projects for your review.  
+If you would like to contact me just write at vitalii.khrystevych@gmail.com  
 
 
 
