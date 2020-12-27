@@ -17,5 +17,5 @@
 **Используемые библиотеки**  
 pandas, plotly, numpy, stats, cmath, datetime
 
-## Ссылка на просмотр через nbviewer: https://nbviewer.jupyter.org/github/vitaliikhrystevych13/Projects/blob/main/User_Behavior_Research_Project/User_Behavior_Research_Project.ipynb**  
+## Ссылка на просмотр через nbviewer: https://nbviewer.jupyter.org/github/vitaliikhrystevych13/Projects/blob/main/User_Behavior_Research_Project/User_Behavior_Research_Project.ipynb  
 
