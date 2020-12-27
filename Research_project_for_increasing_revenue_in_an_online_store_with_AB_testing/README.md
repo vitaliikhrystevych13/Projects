@@ -32,3 +32,5 @@
 **Используемые библиотеки и навыки**  
 Pandas, Matplotlib, SciPy, A/B-тестирование, проверка статистических гипотез  
 
+## Если не открывается Jupyter notebook на github, пожалуйста откройте её через https://nbviewer.jupyter.org/
+
