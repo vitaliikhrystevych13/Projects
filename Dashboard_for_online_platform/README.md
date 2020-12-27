@@ -19,4 +19,4 @@
 Python, sqlalchemy, SQL, Tableau
 
 
-Если не открывается Jupyter notebook на github, пожалуйста откройте её через https://nbviewer.jupyter.org/
+## Если не открывается Jupyter notebook на github, пожалуйста откройте её через https://nbviewer.jupyter.org/
