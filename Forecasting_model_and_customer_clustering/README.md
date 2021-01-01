@@ -21,8 +21,10 @@
 - суммарная выручка от других услуг фитнес-центра: кафе, спорт-товары, косметический и массажный салон.  
 
 
+**Выводы**  
+
 **Используемые библиотеки и навыки**  
 Python, numpy, seaborn, sklearn, K-means, RandomForestClassifier, LogisticRegression, accuracy score, precision score, recall score, roc_auc_score, cluster dendrogram
 
 
-## Проект будет загружен до 31.12.2020
+
